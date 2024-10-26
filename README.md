@@ -27,5 +27,16 @@ Matplotlib & Seaborn: For creating insightful visualizations.
 ### Key Takeaways
 This project strengthened my skills in data science, especially in customer segmentation, API integration, and machine learning. It was an amazing experience to work through the entire data pipeline—from fetching raw data to analyzing and visualizing actionable insights.
 
+### Snapshots 
+![image](https://github.com/user-attachments/assets/ca91649f-aea0-4f1f-81f1-79332ccd193b)
+
+![image](https://github.com/user-attachments/assets/f1e61f0a-9c20-45fe-98a9-5be878469e9e)
+
+![image](https://github.com/user-attachments/assets/8bf0fe90-39ed-43a6-8862-afafe9964653)
+
+![image](https://github.com/user-attachments/assets/42e3c508-2725-4d9d-9602-053c8f6a8d45)
+
+
+
 ## Getting Started
 Clone the repository and check out the notebook to see the full workflow in action! You’ll find all the code and explanations to walk you through the data preparation, clustering process, and visualizations.
